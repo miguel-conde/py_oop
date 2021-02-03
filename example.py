@@ -1,6 +1,7 @@
 import os
 
 import customer
+help(customer)
 
 # https://python-para-impacientes.blogspot.com/2017/04/internacionalizacion-del-codigo-i.html
 import locale

@@ -3,7 +3,7 @@ class CreditError(Exception): pass
 
 class Customer: # Con mayúsculas y palabras pegadas
   # Usar siempre docstrings
-  """" 
+  """
   Clase para usar de ejemplo y plantilla
   """
   # ATRIBUTOS DE CLASE 
